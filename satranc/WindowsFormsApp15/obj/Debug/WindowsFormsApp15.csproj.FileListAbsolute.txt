@@ -1,0 +1,2 @@
+C:\Users\DARK\AppData\Local\Temp\Rar$DIa19328.11470\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+C:\Users\DARK\AppData\Local\Temp\Rar$DIa19328.11470\obj\Debug\WindowsFormsApp15.csproj.SuggestedBindingRedirects.cache
